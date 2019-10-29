@@ -13,8 +13,17 @@ The current video site faces many **PROBLEMS**🙅‍♂️.
   
 **The third problem** is the regulatory issue of content. When the video platform opens up the free upload function, it will inevitably lead to violations. Traditional video platforms are regulated by manual review, but this approach is inefficient and costly. Even so, there is no way to judge the content of violations fairly, because the formulation of evaluation standards is centralized🐻.
 
-**In order to solve such problems, Apollo Video put forward a new purpose.**  
+**In order to solve such problems, Apollo Video presents a new eco-design**  
 
+## What is Apollo Video？
 
+Apollo Video is a block-chained 🔗 video content ecosystem based on contribution-based heat proof.  
+  
+Through the contribution proof, the blockchain technology is used to record the contributions of all participants (including video uploaders, users and DAO community committee members), and use the contract-based algorithm calculation to give Token rewards to all contributors.  
+  
+This will effectively motivate people to participate deeply in the ecology of such video content while contributing their own strength.
+  
+As the ecology continues to evolve, Apollo Video will have a wealth of video content. Uploaders, users, DAO community members, and investors can get the benefits they deserve from Token.
 
-
+## Apollo Video's Purpose  
+**🎊Apollo Video's purpose is to build a multi-win, sustainable video content ecosystem.**
